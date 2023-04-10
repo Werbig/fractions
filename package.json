@@ -1,0 +1,25 @@
+{
+  "name": "fractions",
+  "version": "1.0.0",
+  "description": "Add fractions as exact values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Werbig/fractions.git"
+  },
+  "keywords": [
+    "fractions",
+    "addition",
+    "exact",
+    "value"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Werbig/fractions/issues"
+  },
+  "homepage": "https://github.com/Werbig/fractions#readme"
+}
